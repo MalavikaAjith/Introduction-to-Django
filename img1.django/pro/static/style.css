@@ -1,0 +1,14 @@
+body {
+background-color:powderblue;
+}
+h1{
+color:blue;
+}
+.a {
+background-image : url('/static/img.png');
+background-repeat: no-repeat;
+width : 500px;
+height : 500px;
+}
+
+
